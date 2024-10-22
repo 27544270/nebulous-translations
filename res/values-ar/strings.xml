@@ -155,12 +155,12 @@
     <string name="Dot_Gormandizer">"آكل النقاط الجشع"</string>
     <string name="Dot_Sommelier">"ساقي النقاط!"</string>
 
-    <string name="Quadra_Gulp">"ابتلاع رباعي"</string>
-    <string name="Multi_Gulp">"ابتلاع متعدد"</string>
-    <string name="Mega_Gulp">"ابتلاع ضخم"</string>
-    <string name="Ultra_Gulp">"ابتلاع فائق"</string>
-    <string name="Monster_Gulp">"ابتلاع وحشي"</string>
-    <string name="Ludicrous_Gulp">"ابتلاع لا يصدق"</string>
+    <string name="Quadra_Gulp">"أبتلاع رباعي"</string>
+    <string name="Multi_Gulp">"أبتلاع متعدد"</string>
+    <string name="Mega_Gulp">"أبتلاع ضخم"</string>
+    <string name="Ultra_Gulp">"أبتلاع فائق"</string>
+    <string name="Monster_Gulp">"أبتلاع وحشي"</string>
+    <string name="Ludicrous_Gulp">"أبتلاع لا يصدق"</string>
 
     <string name="Blobicide">"قاتل الدوائر"</string>
     <string name="Blobtrocity">"مستبد الدوائر"</string>
@@ -186,14 +186,14 @@
     <string name="Revenge">"انتقام"</string>
     <string name="Doge_Pound">"جامع الكلاب"</string>
 
-    <string name="Absorb_50_dots">"استيعاب ٥٠ نقطة"</string>
-    <string name="Absorb_300_dots">"استيعاب ٣٠٠ نقطة"</string>
-    <string name="Absorb_1_000_dots">"استيعاب ج ١٠٠٠ نقطة"</string>
-    <string name="Absorb_5_000_dots">"استيعاب ٥٠٠٠ نقطة"</string>
-    <string name="Absorb_10_000_dots">"استيعاب ١٠،٠٠٠ النقاط"</string>
-    <string name="Absorb_50_000_dots">"استيعاب ٥٠،٠٠٠ النقاط"</string>
-    <string name="Absorb_100_000_dots">"استيعاب ١٠٠،٠٠٠ النقاط"</string>
-    <string name="Absorb_1_000_000_dots">"استيعاب ١،٠٠٠،٠٠٠ النقاط"</string>
+    <string name="Absorb_50_dots">"أستيعاب ٥٠ نقطة"</string>
+    <string name="Absorb_300_dots">"أستيعاب ٣٠٠ نقطة"</string>
+    <string name="Absorb_1_000_dots">"أستيعاب ج ١٠٠٠ نقطة"</string>
+    <string name="Absorb_5_000_dots">"أستيعاب ٥٠٠٠ نقطة"</string>
+    <string name="Absorb_10_000_dots">"أستيعاب ١٠،٠٠٠ النقاط"</string>
+    <string name="Absorb_50_000_dots">"أستيعاب ٥٠،٠٠٠ النقاط"</string>
+    <string name="Absorb_100_000_dots">"أستيعاب ١٠٠،٠٠٠ النقاط"</string>
+    <string name="Absorb_1_000_000_dots">"أستيعاب ١،٠٠٠،٠٠٠ النقاط"</string>
 
     <string name="Absorb_4_blobs_quickly">"استيعاب ٤ من الدوائر بسرعة"</string>
     <string name="Absorb_8_blobs_quickly">"استيعاب ٨ من الدوائر بسرعة"</string>
