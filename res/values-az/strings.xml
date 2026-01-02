@@ -653,11 +653,11 @@
     <string name="Challenge_Sent">"Çağırış Göndərilib"</string>
     <string name="_1v1_Challenge_">"1'ə 1 Çağırış!"</string>
     <string name="__has_challenged_you_to_a_1v1_match_">"%s sizi 1'ə 1 matçına dəvət etdi!"</string>
-    <string name="Challenge_Expired">"Duelin müddəti bitdi"</string>
+    <string name="Challenge_Expired">"Meydan okuma süresinin dolması  "</string>
     <string name="Enable_Challenges">"Çağırışları aktivləşdir"</string>
     <string name="Wait_for_the_current_challenge_to_expire_">"Cari çağırışın bitməsini gözləyin"</string>
     <string name="CHALLENGE_OPTIONS">"Duel Seçimləri"</string>
-    <string name="Accept">"Qəbul et"</string>
+    <string name="Accept">"Kabul etmek    et"</string>
     <string name="Decline">"Rədd etmək"</string>
     <string name="Challenge_Declined">"Çağırış rədd edildi"</string>
     <string name="Spectators_">"Tamaşaçılar:"</string>
