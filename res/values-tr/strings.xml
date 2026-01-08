@@ -255,15 +255,15 @@
     <string name="Game_Size_">"Oyun Boyutu:"</string>
 
     <string name="Server_Restart_">"Sunucunun Yeniden Başlatılmasına Kalan Süre:"</string>
-    <string name="GOAL_">"GOL!"</string>
+    <string name="GOAL!">"GOL!"</string>
     <string name="SOCCER">"FUTBOL"</string>
     <string name="DRAW">"BERABERE"</string>
 
     <string name="Clan_Name">"Klan Adı"</string>
-    <string name="Clan">"Klan"</string>
+    <string name="Clan">"klan"</string>
 
 
-    <string name="JOIN_CLAN">"KLANA KATIL"</string>
+    <string name="JOIN_CLAN">"Klana katıl"</string>
     <string name="JOIN_RANDOM_CLAN">"RASTGELE BİR KLANA KATIL"</string>
     <string name="LEAVE_CLAN">"KLANDAN AYRIL"</string>
     <string name="INVITE_MEMBER">"BİR ÜYEYİ DAVET EDİN"</string>
@@ -355,7 +355,7 @@
     <string name="Clan_War">"Klan Savaşı"</string>
 
     <string name="Forming">"Biçimlendiriliyor"</string>
-    <string name="Searching">"Aranıyor"</string>
+    <string name="Searching">" "</string>
     <string name="In_Progress">"İşlem Devam Etmekte"</string>
 
     <string name="Wins">"Galibiyetler"</string>
@@ -470,7 +470,7 @@
     <string name="Plasma_Purchases">"Plazma Satın Alımları"</string>
 
     <string name="ENTER">"GİRİŞ"</string>
-    <string name="_1v1">"1'e 1"</string>
+    <string name="_1v1">"1'e'1"</string>
     <string name="Practice">"Pratik"</string>
     <string name="ArenaDescription">"Sadece tek bir şansınız mevcuttur. Kazanan %s plazma alacaktır."</string>
     <string name="Contestant">"Yarışmacı"</string>
